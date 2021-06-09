@@ -1,0 +1,15 @@
+D:\Test\test\EasyMessageDemo\bin\Debug\netcoreapp3.1\EasyMessageDemo.exe
+D:\Test\test\EasyMessageDemo\obj\Debug\netcoreapp3.1\EasyMessageDemo.csprojAssemblyReference.cache
+D:\Test\test\EasyMessageDemo\obj\Debug\netcoreapp3.1\EasyMessageDemo.AssemblyInfoInputs.cache
+D:\Test\test\EasyMessageDemo\obj\Debug\netcoreapp3.1\EasyMessageDemo.AssemblyInfo.cs
+D:\Test\test\EasyMessageDemo\obj\Debug\netcoreapp3.1\EasyMessageDemo.csproj.CoreCompileInputs.cache
+D:\Test\test\EasyMessageDemo\bin\Debug\netcoreapp3.1\EasyMessageDemo.deps.json
+D:\Test\test\EasyMessageDemo\bin\Debug\netcoreapp3.1\EasyMessageDemo.runtimeconfig.json
+D:\Test\test\EasyMessageDemo\bin\Debug\netcoreapp3.1\EasyMessageDemo.runtimeconfig.dev.json
+D:\Test\test\EasyMessageDemo\bin\Debug\netcoreapp3.1\EasyMessageDemo.dll
+D:\Test\test\EasyMessageDemo\bin\Debug\netcoreapp3.1\EasyMessageDemo.pdb
+D:\Test\test\EasyMessageDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Test\test\EasyMessageDemo\obj\Debug\netcoreapp3.1\EasyMessageDemo.csproj.CopyComplete
+D:\Test\test\EasyMessageDemo\obj\Debug\netcoreapp3.1\EasyMessageDemo.dll
+D:\Test\test\EasyMessageDemo\obj\Debug\netcoreapp3.1\EasyMessageDemo.pdb
+D:\Test\test\EasyMessageDemo\obj\Debug\netcoreapp3.1\EasyMessageDemo.genruntimeconfig.cache

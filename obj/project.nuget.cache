@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WApVLUFP/RVNi+PJE+/As/eMht0ZbmpkQu3UvS8hZriXSsIvpNXSJHljxqcr+piRhXswT9NV/gTRVgksITBL9g==",
+  "success": true,
+  "projectFilePath": "D:\\Test\\test\\EasyMessageDemo\\EasyMessageDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
